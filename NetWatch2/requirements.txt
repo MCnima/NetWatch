@@ -1,0 +1,3 @@
+PyQt6>=6.5
+psutil>=5.9
+pywintrace>=0.2.0; sys_platform == "win32"
